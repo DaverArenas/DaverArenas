@@ -2,7 +2,7 @@
 #### 🔭 I’m a Data Engineer/Data Scientist from Medellin, Colombia. I'm currently working as a contractor Data Engineer for Verizon mainly on AWS cloud using spark and some services like EMR, Glue, Athena and Snowflake for developing big data solutions to the bussiness
 
 
-- 🌱 I’m currently learning Ray framework for scaling AI and Python applications like machine learning, also learning dockers and DevOps
+- 🌱 I’m currently learning Ray framework for scaling AI and Python applications like machine learning
 - ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
   
 <!--
