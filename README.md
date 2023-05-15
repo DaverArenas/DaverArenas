@@ -1,5 +1,9 @@
 ## Hello there 👋 I'm Daverson Arenas
 #### 🔭 I’m currently working as a Data Engineer on AWS cloud using spark and EMR clusters for developing big data solutions 
+
+- 🌱 I’m currently learning Ray framework for scaling AI and Python applications like machine learning, also learning dockers and DevOps
+- ⚡ Fun fact: 
+  
 <!--
 **DaverArenas/DaverArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
