@@ -1,5 +1,5 @@
 ## Hello there 👋 I'm Daverson Arenas
-#### 🔭 I’m a Data Engineer/Data Scientist from Medellin, Colombia. I'm currently working as a contractor Data Engineer for Verizon mainly on AWS cloud using spark and some services like EMR, Glue, Athena and Snowflake for developing big data solutions to the bussiness
+#### 🔭 I’m a Data Engineer/Data Scientist from Medellin, Colombia. I'm currently working as a contractor Data Engineer for a leading telecommunications company in the USA mainly on AWS cloud using spark and some services like EMR, Glue, Athena and Snowflake for developing big data solutions to the bussiness
 
 
 - 🌱 I’m currently learning Ray framework for scaling AI and Python applications like machine learning
