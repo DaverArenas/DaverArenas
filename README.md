@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning Ray framework for scaling AI and Python applications like machine learning
 - ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
-  
+
+I invite you to know more about my professional background in my online portfolio Web page: 
+  https://daverarenas.github.io/daverdatalab.github.io/
 <!--
 **DaverArenas/DaverArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
