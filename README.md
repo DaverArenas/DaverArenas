@@ -5,19 +5,19 @@
 
 🌟 Here's a glimpse of my skills and areas of focus:
  
-   1. **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
-   2. **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
-   3. **AWS**: Adept at utilizing a wide range of AWS services such as S3, EC2, Glue, Redshift, and SageMaker to architect and deploy cloud-based data solutions.
-   4. **Spark**: Highly skilled in Apache Spark for distributed data processing, enabling efficient handling of large-scale datasets.
-   5. **Python**: Avid Python programmer, leveraging its versatility to create data-driven applications and conduct in-depth data analysis.
-   6. **Data Visualization**: Proficient in data visualization tools like Matplotlib, Seaborn, and Tableau to effectively communicate insights and trends.
-   7. **Streaming**: Currently expanding my skillset by learning streaming technologies with Scala and Java, with a focus on real-time data processing.
-   8. **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
+   - **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
+   - **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
+   - **AWS**: Adept at utilizing a wide range of AWS services such as S3, EC2, Glue, Redshift, and SageMaker to architect and deploy cloud-based data solutions.
+   - **Spark**: Highly skilled in Apache Spark for distributed data processing, enabling efficient handling of large-scale datasets.
+   - **Python**: Avid Python programmer, leveraging its versatility to create data-driven applications and conduct in-depth data analysis.
+   - **Data Visualization**: Proficient in data visualization tools like Matplotlib, Seaborn, and Tableau to effectively communicate insights and trends.
+   - **Streaming**: Currently expanding my skillset by learning streaming technologies with Scala and Java, with a focus on real-time data processing.
+   - **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
 
-- 🤖 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍
+🤖 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍
 
-- 🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
-- ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
+🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
+⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
 
 ### I invite you to know more about my professional background in my online portfolio Web page: 
   https://main.d1vdi5khuw1t0z.amplifyapp.com/
