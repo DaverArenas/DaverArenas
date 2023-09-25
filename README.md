@@ -1,9 +1,9 @@
 ## Hello there 👋 I'm Daverson Arenas
-#### 🔭 I’m a Data and ML Engineer from Medellin, Colombia. I'm currently working as a contractor for a leading telecommunications company in the USA, where I specialize in leveraging AWS services to develop cutting-edge big data solutions and data-driven applications. 
+#### I’m a Data and ML Engineer from Medellin, Colombia. I'm currently working as a contractor for a leading telecommunications company in the USA, where I specialize in leveraging AWS services to develop cutting-edge big data solutions and data-driven applications. 
 
 - 🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
 
-- 🌟 Here's a glimpse of my skills and areas of focus:
+- 🔭 Here's a glimpse of my skills and areas of focus:
  
    1. **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
    2. **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
@@ -19,7 +19,7 @@
 - 🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
 - ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
 
-## I invite you to know more about my professional background in my online portfolio Web page: 
+### I invite you to know more about my professional background in my online portfolio Web page: 
   https://main.d1vdi5khuw1t0z.amplifyapp.com/
 <!--
 **DaverArenas/DaverArenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
