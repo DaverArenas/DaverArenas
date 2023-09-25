@@ -5,7 +5,7 @@
 
 - 🌟 Here's a glimpse of my skills and areas of focus:
  
-  - **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
+   - **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
 
 - **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
 
