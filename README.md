@@ -20,7 +20,7 @@
 
 - **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
 
-I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍🤖
+- 🤖 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍
 
 - 🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
 - ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
