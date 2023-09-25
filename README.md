@@ -1,10 +1,10 @@
 ## Hello there 👋 I'm Daverson Arenas
 #### 🔭 I’m a Data and ML Engineer from Medellin, Colombia. I'm currently working as a contractor for a leading telecommunications company in the USA, where I specialize in leveraging AWS services to develop cutting-edge big data solutions and data-driven applications. 
 
-🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
+- 🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
 
-🌟 Here's a glimpse of my skills and areas of focus:
-- **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
+- 🌟 Here's a glimpse of my skills and areas of focus:
+-   **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
 
 - **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
 
