@@ -1,7 +1,7 @@
 ## Hello there 👋 I'm Daverson Arenas
 #### 🔭 I’m a Data and ML Engineer from Medellin, Colombia. I'm currently working as a contractor for a leading telecommunications company in the USA, where I specialize in leveraging AWS services to develop cutting-edge big data solutions and data-driven applications. 
 
-- 🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
+🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
 
 - 🌟 Here's a glimpse of my skills and areas of focus:
 -   **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
@@ -20,10 +20,10 @@
 
 - **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
 
-- 🤖 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍
+🤖 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍
 
-- 🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
-- ⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
+🌱 I’m learning Ray framework for scaling AI and Python applications like machine learning
+⚡ Fun fact: I am a Mechanical Engineer with a diverse background in engineering, and along my journey, I unexpectedly found myself captivated by the world of data and cloud computing technologies
 
 I invite you to know more about my professional background in my online portfolio Web page: 
   https://main.d1vdi5khuw1t0z.amplifyapp.com/
