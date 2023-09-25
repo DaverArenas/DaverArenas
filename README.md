@@ -4,21 +4,21 @@
 🚀 I'm passionate about harnessing the power of data to drive business insights and innovation. My expertise lies in utilizing technologies such as Spark and Python to design and implement robust data pipelines, machine learning models, and analytical tools.
 
 🌟 Here's a glimpse of my skills and areas of focus:
-- **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
-
-- **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
-
-- **AWS**: Adept at utilizing a wide range of AWS services such as S3, EC2, Glue, Redshift, and SageMaker to architect and deploy cloud-based data solutions.
-
-- **Spark**: Highly skilled in Apache Spark for distributed data processing, enabling efficient handling of large-scale datasets.
-
-- **Python**: Avid Python programmer, leveraging its versatility to create data-driven applications and conduct in-depth data analysis.
-
-- **Data Visualization**: Proficient in data visualization tools like Matplotlib, Seaborn, and Tableau to effectively communicate insights and trends.
-
-- **Streaming**: Currently expanding my skillset by learning streaming technologies with Scala and Java, with a focus on real-time data processing.
-
-- **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
+    - **Data Engineering**: Proficient in designing and optimizing data pipelines, ETL processes, and data warehousing solutions, ensuring data reliability and scalability.
+    
+    - **Machine Learning**: Experienced in building predictive models, natural language processing applications, and recommendation systems to extract valuable insights from data.
+    
+    - **AWS**: Adept at utilizing a wide range of AWS services such as S3, EC2, Glue, Redshift, and SageMaker to architect and deploy cloud-based data solutions.
+    
+    - **Spark**: Highly skilled in Apache Spark for distributed data processing, enabling efficient handling of large-scale datasets.
+    
+    - **Python**: Avid Python programmer, leveraging its versatility to create data-driven applications and conduct in-depth data analysis.
+    
+    - **Data Visualization**: Proficient in data visualization tools like Matplotlib, Seaborn, and Tableau to effectively communicate insights and trends.
+    
+    - **Streaming**: Currently expanding my skillset by learning streaming technologies with Scala and Java, with a focus on real-time data processing.
+    
+    - **MLOps**: Interested in the operational aspects of deploying machine learning models. Actively learning Docker and Kubernetes to streamline model deployment and management.
 
 I'm constantly seeking opportunities to collaborate on challenging projects, share knowledge, and stay updated on the latest advancements in the data and machine learning field. Let's connect and explore how we can drive innovation through data together! 📈🔍🤖
 
